@@ -1,0 +1,12 @@
+package pspunit1;
+
+import java.io.File;
+
+public class Ejemplo7 {
+public static void main(String[] args) {
+	
+	ProcessBuilder pb=new ProcessBuilder("CMD","/C","DIR");
+	File fOut=new File("src\\pspunit1\\salida.txt");
+	File fErr=new File("error.txt");
+}
+}

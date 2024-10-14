@@ -1,0 +1,16 @@
+ El volumen de la unidad C es Boot
+ El n£mero de serie del volumen es: 7A62-7CCA
+
+ Directorio de C:\Users\Tarde\Documents\PSPJava\Unidad1\Pruebas
+
+14/10/2024  21:09    <DIR>          .
+14/10/2024  20:52    <DIR>          ..
+10/10/2024  17:46               396 .classpath
+10/10/2024  17:46                 6 .gitignore
+10/10/2024  17:47               383 .project
+10/10/2024  17:46    <DIR>          .settings
+14/10/2024  20:52    <DIR>          bin
+14/10/2024  21:09                 0 error.txt
+10/10/2024  17:47    <DIR>          src
+               4 archivos            785 bytes
+               5 dirs  185.771.347.968 bytes libres
