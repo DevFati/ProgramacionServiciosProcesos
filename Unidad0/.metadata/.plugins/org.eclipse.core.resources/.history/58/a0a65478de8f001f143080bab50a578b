@@ -1,0 +1,20 @@
+package ejercicio1;
+
+public class BucleSaludo {
+// Crea un programa java que visualice 5 veces una cadena de caracteres
+// (un saludo) que se le envía desde los argumentos de main(). Si no se 
+// envía ninguna muestra un mensaje y finaliza con System.exit(1).
+	
+	public static void main(String[] args) {
+		if(args.length!=0) {
+			for(int i=0;i<5;i++) {
+				
+				System.out.println(args[0]);
+			}
+		}else {
+			System.out.println("No se ha introducido ninguna cadena");
+			System.exit(1);
+		}
+		
+	}
+}

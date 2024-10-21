@@ -1,9 +1,0 @@
-package pspunit1;
-
-public class Ejemplo7 {
-public static void main(String[] args) {
-	
-	ProcessBuilder pb=new ProcessBuilder("CMD","/C","DIR");
-	
-}
-}
