@@ -1,0 +1,2 @@
+Introduce un número: 
+El numero 212 es capicua
