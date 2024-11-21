@@ -1,0 +1,2 @@
+Introduce un numero entero: 
+La suma de las cifras es 11
