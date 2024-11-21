@@ -1,0 +1,2 @@
+Introduce un numero: 
+El número 20 no es primo.
